@@ -12,6 +12,7 @@ The following Python libraries are required to run the code in this repository:
 - numpy
 - pandas
 - sklearn
+- nltk
 
 ## Usage
 
