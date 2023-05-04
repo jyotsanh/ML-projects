@@ -27,6 +27,4 @@ The notebooks contain detailed explanations of the data, the problem, and the so
 
 If you would like to contribute to this repository, feel free to create a pull request. Please ensure that your code is well-documented and adheres to the [PEP 8 style guide](https://www.python.org/dev/peps/pep-0008/).
 
-## License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
