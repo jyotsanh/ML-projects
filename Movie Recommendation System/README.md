@@ -14,6 +14,12 @@ The following Python libraries are required to run the code in this repository:
 - sklearn
 - nltk
 
+## Some ScreenShot
+![Dash-Page](images/dash.png)
+![Dash-Page](images/dash2.png)
+
+
+
 ## Usage
 
 1. Clone the repository using the following command:
