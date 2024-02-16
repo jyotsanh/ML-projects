@@ -1,5 +1,5 @@
 # Naive Bayes Algroithm
-This below definition is solely written by if there is mistakes in it please add in issue or create a PS. I would definitly appreciate it. Over and out!
+This below definition is solely written by me if there is mistakes in it please add in issue or create a PS. I would definitly appreciate it. Over and out!
 ## Two conditional Probability are there :
 - Independent
   - P(A∩B) = P(A)xp(B)
