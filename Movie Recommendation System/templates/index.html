@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Movie Recommendation System
+    </h1>
+    <form action="{{ url_for('predict') }}" method="post">
+        <label for="movie">
+            Movie Name :
+        </label>
+        <input type="text" id="movie" placeholder="Movie Name"   name="movie">
+        <button type="submit">Predict</button>
+    </form>
+    <p>
+        {% for movie in obj %}
+            <li>
+                {{movie}}
+            </li>
+        {%endfor%}
+    </p>
+</body>
+
+</html>
